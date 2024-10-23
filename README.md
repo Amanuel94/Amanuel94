@@ -1,6 +1,6 @@
 # **Amanuel Tewodros**
 
-## 👋 **Hello, World!**
+## 👋 **Hey there!**
 
 I'm Amanuel Tewodros, a passionate **Software/Machine Learning Engineer** and **Mathematics** enthusiast. I specialize in **Python** and **C#**, with experience across multiple programming languages and frameworks. My passion lies in building robust systems, exploring machine learning, and applying mathematical concepts in real-world solutions.
 
@@ -8,15 +8,20 @@ I'm Amanuel Tewodros, a passionate **Software/Machine Learning Engineer** and **
 
 ### 💼 **Experience**
 
-- **Software/Machine Learning Engineer**  
-  **November 2022 - Present**  
-  Working on challenging projects that push my technical limits while expanding my expertise in software development and machine learning.
+- **Competitive Programming Trainer** – A2SV  
+*October 2023 – Present | Addis Ababa, Ethiopia*
+
+- **AI Intern** – Ethiopian Artificial Intelligence Institute   
+*June 2023 – October 2023 | Addis Ababa, Ethiopia*
+
+- **AI and Machine Learning Intern** – iCog Labs  
+*November 2022 – June 2023 | Addis Ababa, Ethiopia*
 
 ---
 
 ### 🚀 **Skills**
 
-#### **Languages**  
+#### **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
@@ -28,6 +33,7 @@ I'm Amanuel Tewodros, a passionate **Software/Machine Learning Engineer** and **
 #### **Technologies/Frameworks**  
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
