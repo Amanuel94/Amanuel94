@@ -9,7 +9,7 @@ I'm Amanuel Tewodros, a passionate **Software/Machine Learning Engineer** and **
 ### 💼 **Experience**
 
 - **Competitive Programming Trainer** – A2SV  
-*October 2023 – Present | Addis Ababa, Ethiopia*
+*October 2023 – January 2025 | Addis Ababa, Ethiopia*
 
 - **AI Intern** – Ethiopian Artificial Intelligence Institute   
 *June 2023 – October 2023 | Addis Ababa, Ethiopia*
@@ -58,7 +58,8 @@ I'm Amanuel Tewodros, a passionate **Software/Machine Learning Engineer** and **
 ### 📫 **Contact Me**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanuel-tewodros-78b4a9123)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amanueltewodros94@gmail.com)  
+[![Email 1](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amanueltewodros94@gmail.com)  
+[![Email 2](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dirichletian@gmail.com)
 
 ---
 
