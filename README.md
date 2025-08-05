@@ -2,7 +2,7 @@
 
 ## 👋 **Hey there!**
 
-I'm Amanuel Tewodros, a passionate **Software/Machine Learning Engineer** and **Mathematics** enthusiast. I specialize in **Python** and **C#**, with experience across multiple programming languages and frameworks. My passion lies in building robust systems, exploring machine learning, and applying mathematical concepts in real-world solutions.
+I'm Amanuel Tewodros, a passionate **Software Engineer** and **Aspiring Combinatorialist**. I specialize in **Python** and **C#**, with experience across multiple programming languages and frameworks. My passion lies in building robust systems and applying counting arguments.
 
 ---
 
@@ -10,9 +10,6 @@ I'm Amanuel Tewodros, a passionate **Software/Machine Learning Engineer** and **
 
 - **Competitive Programming Trainer** – A2SV  
 *October 2023 – January 2025 | Addis Ababa, Ethiopia*
-
-- **AI Intern** – Ethiopian Artificial Intelligence Institute   
-*June 2023 – October 2023 | Addis Ababa, Ethiopia*
 
 - **AI and Machine Learning Intern** – iCog Labs  
 *November 2022 – June 2023 | Addis Ababa, Ethiopia*
@@ -59,8 +56,6 @@ I'm Amanuel Tewodros, a passionate **Software/Machine Learning Engineer** and **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanuel-tewodros-78b4a9123)  
 [![Email 1](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amanueltewodros94@gmail.com)  
-[![Email 2](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dirichletian@gmail.com)
-
 ---
 
 ### 🤝 **Let's Connect!**  
